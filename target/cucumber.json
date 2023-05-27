@@ -1,0 +1,1077 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-05-27T05:46:17.244Z",
+        "line": 10,
+        "name": "calculate the Arithmetic Operations with WholeNumbers",
+        "description": "",
+        "id": "automate-calculator-using-winappdriver;calculate-the-arithmetic-operations-with-wholenumbers;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5079782100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is able to Open the  Windows Calculator",
+            "match": {
+              "location": "StepDefination.CalculatorSteps.user_is_able_to_Open_the_Windows_Calculator()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1021200,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 10986627100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is able Select the two Number \"234\" and \"126\" perform the \"Addition\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"234\"",
+                  "offset": 35
+                },
+                {
+                  "val": "\"126\"",
+                  "offset": 45
+                },
+                {
+                  "val": "\"Addition\"",
+                  "offset": 63
+                }
+              ],
+              "location": "StepDefination.CalculatorSteps.user_is_able_Select_the_two_Number_and_perform_the(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 329764800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "get the operation results of \"234\" and \"126\" \"Addition\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"234\"",
+                  "offset": 29
+                },
+                {
+                  "val": "\"126\"",
+                  "offset": 39
+                },
+                {
+                  "val": "\"Addition\"",
+                  "offset": 45
+                }
+              ],
+              "location": "StepDefination.CalculatorSteps.get_the_operation_results_of_and(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 145025700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Verify the Results",
+            "match": {
+              "location": "StepDefination.CalculatorSteps.verify_the_Results()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@ArithmeticOperation1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-05-27T05:46:34.084Z",
+        "line": 11,
+        "name": "calculate the Arithmetic Operations with WholeNumbers",
+        "description": "",
+        "id": "automate-calculator-using-winappdriver;calculate-the-arithmetic-operations-with-wholenumbers;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4343467100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is able to Open the  Windows Calculator",
+            "match": {
+              "location": "StepDefination.CalculatorSteps.user_is_able_to_Open_the_Windows_Calculator()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 10728758800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is able Select the two Number \"654\" and \"345\" perform the \"Subtraction\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"654\"",
+                  "offset": 35
+                },
+                {
+                  "val": "\"345\"",
+                  "offset": 45
+                },
+                {
+                  "val": "\"Subtraction\"",
+                  "offset": 63
+                }
+              ],
+              "location": "StepDefination.CalculatorSteps.user_is_able_Select_the_two_Number_and_perform_the(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 318412800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "get the operation results of \"654\" and \"345\" \"Subtraction\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"654\"",
+                  "offset": 29
+                },
+                {
+                  "val": "\"345\"",
+                  "offset": 39
+                },
+                {
+                  "val": "\"Subtraction\"",
+                  "offset": 45
+                }
+              ],
+              "location": "StepDefination.CalculatorSteps.get_the_operation_results_of_and(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 95800400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Verify the Results",
+            "match": {
+              "location": "StepDefination.CalculatorSteps.verify_the_Results()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@ArithmeticOperation1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-05-27T05:46:49.595Z",
+        "line": 12,
+        "name": "calculate the Arithmetic Operations with WholeNumbers",
+        "description": "",
+        "id": "automate-calculator-using-winappdriver;calculate-the-arithmetic-operations-with-wholenumbers;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4356776800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is able to Open the  Windows Calculator",
+            "match": {
+              "location": "StepDefination.CalculatorSteps.user_is_able_to_Open_the_Windows_Calculator()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11276983900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is able Select the two Number \"247\" and \"375\" perform the \"Multiplication\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"247\"",
+                  "offset": 35
+                },
+                {
+                  "val": "\"375\"",
+                  "offset": 45
+                },
+                {
+                  "val": "\"Multiplication\"",
+                  "offset": 63
+                }
+              ],
+              "location": "StepDefination.CalculatorSteps.user_is_able_Select_the_two_Number_and_perform_the(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1020300,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 306675600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "get the operation results of \"247\" and \"375\" \"Multiplication\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"247\"",
+                  "offset": 29
+                },
+                {
+                  "val": "\"375\"",
+                  "offset": 39
+                },
+                {
+                  "val": "\"Multiplication\"",
+                  "offset": 45
+                }
+              ],
+              "location": "StepDefination.CalculatorSteps.get_the_operation_results_of_and(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1012000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 119076800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Verify the Results",
+            "match": {
+              "location": "StepDefination.CalculatorSteps.verify_the_Results()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@ArithmeticOperation1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-05-27T05:47:05.686Z",
+        "line": 13,
+        "name": "calculate the Arithmetic Operations with WholeNumbers",
+        "description": "",
+        "id": "automate-calculator-using-winappdriver;calculate-the-arithmetic-operations-with-wholenumbers;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4436949300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is able to Open the  Windows Calculator",
+            "match": {
+              "location": "StepDefination.CalculatorSteps.user_is_able_to_Open_the_Windows_Calculator()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11967023600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is able Select the two Number \"596\" and \"896\" perform the \"Division\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"596\"",
+                  "offset": 35
+                },
+                {
+                  "val": "\"896\"",
+                  "offset": 45
+                },
+                {
+                  "val": "\"Division\"",
+                  "offset": 63
+                }
+              ],
+              "location": "StepDefination.CalculatorSteps.user_is_able_Select_the_two_Number_and_perform_the(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 306823000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "get the operation results of \"596\" and \"896\" \"Division\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"596\"",
+                  "offset": 29
+                },
+                {
+                  "val": "\"896\"",
+                  "offset": 39
+                },
+                {
+                  "val": "\"Division\"",
+                  "offset": 45
+                }
+              ],
+              "location": "StepDefination.CalculatorSteps.get_the_operation_results_of_and(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 103140600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Verify the Results",
+            "match": {
+              "location": "StepDefination.CalculatorSteps.verify_the_Results()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1004000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@ArithmeticOperation1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-05-27T05:47:22.538Z",
+        "line": 22,
+        "name": "calculate the Arithmetic Operations with DecimalNumbers",
+        "description": "",
+        "id": "automate-calculator-using-winappdriver;calculate-the-arithmetic-operations-with-decimalnumbers;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4382097100,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User is able to Open the  Windows Calculator",
+            "match": {
+              "location": "StepDefination.CalculatorSteps.user_is_able_to_Open_the_Windows_Calculator()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 20052334700,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User is able Select the two decimalNumber \"123.1234\" and \"212.4321\" perform the \"Addition\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"123.1234\"",
+                  "offset": 42
+                },
+                {
+                  "val": "\"212.4321\"",
+                  "offset": 57
+                },
+                {
+                  "val": "\"Addition\"",
+                  "offset": 80
+                }
+              ],
+              "location": "StepDefination.CalculatorSteps.user_is_able_Select_the_two_decimalNumber_and_perform_the(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 343049200,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "get the operation results of decimalNumbers \"123.1234\" and \"212.4321\" \"Addition\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"123.1234\"",
+                  "offset": 44
+                },
+                {
+                  "val": "\"212.4321\"",
+                  "offset": 59
+                },
+                {
+                  "val": "\"Addition\"",
+                  "offset": 70
+                }
+              ],
+              "location": "StepDefination.CalculatorSteps.get_the_operation_results_of_decimalNumbers_and(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1254100,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 110578100,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Verify the Results",
+            "match": {
+              "location": "StepDefination.CalculatorSteps.verify_the_Results()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1004900,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@ArithmeticOperation2"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-05-27T05:47:47.465Z",
+        "line": 23,
+        "name": "calculate the Arithmetic Operations with DecimalNumbers",
+        "description": "",
+        "id": "automate-calculator-using-winappdriver;calculate-the-arithmetic-operations-with-decimalnumbers;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4351014000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User is able to Open the  Windows Calculator",
+            "match": {
+              "location": "StepDefination.CalculatorSteps.user_is_able_to_Open_the_Windows_Calculator()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11112643100,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User is able Select the two decimalNumber \"6.54\" and \"3.45\" perform the \"Subtraction\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"6.54\"",
+                  "offset": 42
+                },
+                {
+                  "val": "\"3.45\"",
+                  "offset": 53
+                },
+                {
+                  "val": "\"Subtraction\"",
+                  "offset": 72
+                }
+              ],
+              "location": "StepDefination.CalculatorSteps.user_is_able_Select_the_two_decimalNumber_and_perform_the(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 400434100,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "get the operation results of decimalNumbers \"6.54\" and \"3.45\" \"Subtraction\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"6.54\"",
+                  "offset": 44
+                },
+                {
+                  "val": "\"3.45\"",
+                  "offset": 55
+                },
+                {
+                  "val": "\"Subtraction\"",
+                  "offset": 62
+                }
+              ],
+              "location": "StepDefination.CalculatorSteps.get_the_operation_results_of_decimalNumbers_and(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 121753500,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Verify the Results",
+            "match": {
+              "location": "StepDefination.CalculatorSteps.verify_the_Results()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@ArithmeticOperation2"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-05-27T05:48:03.476Z",
+        "line": 24,
+        "name": "calculate the Arithmetic Operations with DecimalNumbers",
+        "description": "",
+        "id": "automate-calculator-using-winappdriver;calculate-the-arithmetic-operations-with-decimalnumbers;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4470859200,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User is able to Open the  Windows Calculator",
+            "match": {
+              "location": "StepDefination.CalculatorSteps.user_is_able_to_Open_the_Windows_Calculator()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1004000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 18245592800,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User is able Select the two decimalNumber \"20.766\" and \"30.65453\" perform the \"Multiplication\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"20.766\"",
+                  "offset": 42
+                },
+                {
+                  "val": "\"30.65453\"",
+                  "offset": 55
+                },
+                {
+                  "val": "\"Multiplication\"",
+                  "offset": 78
+                }
+              ],
+              "location": "StepDefination.CalculatorSteps.user_is_able_Select_the_two_decimalNumber_and_perform_the(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 337775900,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "get the operation results of decimalNumbers \"20.766\" and \"30.65453\" \"Multiplication\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"20.766\"",
+                  "offset": 44
+                },
+                {
+                  "val": "\"30.65453\"",
+                  "offset": 57
+                },
+                {
+                  "val": "\"Multiplication\"",
+                  "offset": 68
+                }
+              ],
+              "location": "StepDefination.CalculatorSteps.get_the_operation_results_of_decimalNumbers_and(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 122300400,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Verify the Results",
+            "match": {
+              "location": "StepDefination.CalculatorSteps.verify_the_Results()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1468500,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@ArithmeticOperation2"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-05-27T05:48:26.683Z",
+        "line": 25,
+        "name": "calculate the Arithmetic Operations with DecimalNumbers",
+        "description": "",
+        "id": "automate-calculator-using-winappdriver;calculate-the-arithmetic-operations-with-decimalnumbers;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4296953500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User is able to Open the  Windows Calculator",
+            "match": {
+              "location": "StepDefination.CalculatorSteps.user_is_able_to_Open_the_Windows_Calculator()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11831877800,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User is able Select the two decimalNumber \"5.96\" and \"8.96\" perform the \"Division\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"5.96\"",
+                  "offset": 42
+                },
+                {
+                  "val": "\"8.96\"",
+                  "offset": 53
+                },
+                {
+                  "val": "\"Division\"",
+                  "offset": 72
+                }
+              ],
+              "location": "StepDefination.CalculatorSteps.user_is_able_Select_the_two_decimalNumber_and_perform_the(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 336203300,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "get the operation results of decimalNumbers \"5.96\" and \"8.96\" \"Division\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"5.96\"",
+                  "offset": 44
+                },
+                {
+                  "val": "\"8.96\"",
+                  "offset": 55
+                },
+                {
+                  "val": "\"Division\"",
+                  "offset": 62
+                }
+              ],
+              "location": "StepDefination.CalculatorSteps.get_the_operation_results_of_decimalNumbers_and(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 137042900,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Verify the Results",
+            "match": {
+              "location": "StepDefination.CalculatorSteps.verify_the_Results()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "StepDefination.CalculatorSteps.takeScreenshot(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@ArithmeticOperation2"
+          }
+        ]
+      }
+    ],
+    "name": "Automate Calculator Using WinAppDriver",
+    "description": "",
+    "id": "automate-calculator-using-winappdriver",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/FeatureFile/Calculator.feature",
+    "tags": []
+  }
+]
