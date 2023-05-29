@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2023-05-27T05:46:17.244Z",
+        "start_timestamp": "2023-05-29T10:10:04.488Z",
         "line": 10,
         "name": "calculate the Arithmetic Operations with WholeNumbers",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5079782100,
+              "duration": 5153923700,
               "status": "passed"
             },
             "line": 4,
@@ -24,7 +24,7 @@
             "after": [
               {
                 "result": {
-                  "duration": 1021200,
+                  "duration": 1874700,
                   "status": "passed"
                 },
                 "match": {
@@ -36,7 +36,7 @@
           },
           {
             "result": {
-              "duration": 10986627100,
+              "duration": 10958560700,
               "status": "passed"
             },
             "line": 5,
@@ -61,6 +61,7 @@
             "after": [
               {
                 "result": {
+                  "duration": 1664600,
                   "status": "passed"
                 },
                 "match": {
@@ -72,7 +73,7 @@
           },
           {
             "result": {
-              "duration": 329764800,
+              "duration": 333830800,
               "status": "passed"
             },
             "line": 6,
@@ -97,6 +98,7 @@
             "after": [
               {
                 "result": {
+                  "duration": 949400,
                   "status": "passed"
                 },
                 "match": {
@@ -108,7 +110,7 @@
           },
           {
             "result": {
-              "duration": 145025700,
+              "duration": 105108700,
               "status": "passed"
             },
             "line": 7,
@@ -136,7 +138,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-05-27T05:46:34.084Z",
+        "start_timestamp": "2023-05-29T10:10:21.439Z",
         "line": 11,
         "name": "calculate the Arithmetic Operations with WholeNumbers",
         "description": "",
@@ -146,7 +148,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4343467100,
+              "duration": 5002290200,
               "status": "passed"
             },
             "line": 4,
@@ -157,6 +159,7 @@
             "after": [
               {
                 "result": {
+                  "duration": 996000,
                   "status": "passed"
                 },
                 "match": {
@@ -168,7 +171,7 @@
           },
           {
             "result": {
-              "duration": 10728758800,
+              "duration": 11615173900,
               "status": "passed"
             },
             "line": 5,
@@ -204,7 +207,7 @@
           },
           {
             "result": {
-              "duration": 318412800,
+              "duration": 435759900,
               "status": "passed"
             },
             "line": 6,
@@ -240,7 +243,7 @@
           },
           {
             "result": {
-              "duration": 95800400,
+              "duration": 139908000,
               "status": "passed"
             },
             "line": 7,
@@ -268,7 +271,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-05-27T05:46:49.595Z",
+        "start_timestamp": "2023-05-29T10:10:38.683Z",
         "line": 12,
         "name": "calculate the Arithmetic Operations with WholeNumbers",
         "description": "",
@@ -278,7 +281,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4356776800,
+              "duration": 4760040300,
               "status": "passed"
             },
             "line": 4,
@@ -289,6 +292,7 @@
             "after": [
               {
                 "result": {
+                  "duration": 522500,
                   "status": "passed"
                 },
                 "match": {
@@ -300,7 +304,7 @@
           },
           {
             "result": {
-              "duration": 11276983900,
+              "duration": 12587941300,
               "status": "passed"
             },
             "line": 5,
@@ -325,7 +329,6 @@
             "after": [
               {
                 "result": {
-                  "duration": 1020300,
                   "status": "passed"
                 },
                 "match": {
@@ -337,7 +340,7 @@
           },
           {
             "result": {
-              "duration": 306675600,
+              "duration": 327243000,
               "status": "passed"
             },
             "line": 6,
@@ -362,7 +365,6 @@
             "after": [
               {
                 "result": {
-                  "duration": 1012000,
                   "status": "passed"
                 },
                 "match": {
@@ -374,7 +376,7 @@
           },
           {
             "result": {
-              "duration": 119076800,
+              "duration": 127726600,
               "status": "passed"
             },
             "line": 7,
@@ -385,6 +387,7 @@
             "after": [
               {
                 "result": {
+                  "duration": 1136900,
                   "status": "passed"
                 },
                 "match": {
@@ -402,7 +405,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-05-27T05:47:05.686Z",
+        "start_timestamp": "2023-05-29T10:10:56.547Z",
         "line": 13,
         "name": "calculate the Arithmetic Operations with WholeNumbers",
         "description": "",
@@ -412,7 +415,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4436949300,
+              "duration": 4666303000,
               "status": "passed"
             },
             "line": 4,
@@ -434,7 +437,7 @@
           },
           {
             "result": {
-              "duration": 11967023600,
+              "duration": 11164495000,
               "status": "passed"
             },
             "line": 5,
@@ -470,7 +473,7 @@
           },
           {
             "result": {
-              "duration": 306823000,
+              "duration": 346227900,
               "status": "passed"
             },
             "line": 6,
@@ -506,7 +509,7 @@
           },
           {
             "result": {
-              "duration": 103140600,
+              "duration": 134460900,
               "status": "passed"
             },
             "line": 7,
@@ -517,7 +520,7 @@
             "after": [
               {
                 "result": {
-                  "duration": 1004000,
+                  "duration": 995600,
                   "status": "passed"
                 },
                 "match": {
@@ -535,7 +538,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-05-27T05:47:22.538Z",
+        "start_timestamp": "2023-05-29T10:11:12.931Z",
         "line": 22,
         "name": "calculate the Arithmetic Operations with DecimalNumbers",
         "description": "",
@@ -545,7 +548,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4382097100,
+              "duration": 4556730300,
               "status": "passed"
             },
             "line": 16,
@@ -556,6 +559,7 @@
             "after": [
               {
                 "result": {
+                  "duration": 1035600,
                   "status": "passed"
                 },
                 "match": {
@@ -567,7 +571,7 @@
           },
           {
             "result": {
-              "duration": 20052334700,
+              "duration": 21208201300,
               "status": "passed"
             },
             "line": 17,
@@ -603,7 +607,7 @@
           },
           {
             "result": {
-              "duration": 343049200,
+              "duration": 343986400,
               "status": "passed"
             },
             "line": 18,
@@ -628,7 +632,6 @@
             "after": [
               {
                 "result": {
-                  "duration": 1254100,
                   "status": "passed"
                 },
                 "match": {
@@ -640,7 +643,7 @@
           },
           {
             "result": {
-              "duration": 110578100,
+              "duration": 147729900,
               "status": "passed"
             },
             "line": 19,
@@ -651,7 +654,6 @@
             "after": [
               {
                 "result": {
-                  "duration": 1004900,
                   "status": "passed"
                 },
                 "match": {
@@ -669,7 +671,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-05-27T05:47:47.465Z",
+        "start_timestamp": "2023-05-29T10:11:39.231Z",
         "line": 23,
         "name": "calculate the Arithmetic Operations with DecimalNumbers",
         "description": "",
@@ -679,7 +681,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4351014000,
+              "duration": 4666802800,
               "status": "passed"
             },
             "line": 16,
@@ -701,7 +703,7 @@
           },
           {
             "result": {
-              "duration": 11112643100,
+              "duration": 11968432800,
               "status": "passed"
             },
             "line": 17,
@@ -726,6 +728,7 @@
             "after": [
               {
                 "result": {
+                  "duration": 998900,
                   "status": "passed"
                 },
                 "match": {
@@ -737,7 +740,7 @@
           },
           {
             "result": {
-              "duration": 400434100,
+              "duration": 353411900,
               "status": "passed"
             },
             "line": 18,
@@ -773,7 +776,7 @@
           },
           {
             "result": {
-              "duration": 121753500,
+              "duration": 134229800,
               "status": "passed"
             },
             "line": 19,
@@ -801,7 +804,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-05-27T05:48:03.476Z",
+        "start_timestamp": "2023-05-29T10:11:56.409Z",
         "line": 24,
         "name": "calculate the Arithmetic Operations with DecimalNumbers",
         "description": "",
@@ -811,7 +814,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4470859200,
+              "duration": 4664947000,
               "status": "passed"
             },
             "line": 16,
@@ -822,7 +825,6 @@
             "after": [
               {
                 "result": {
-                  "duration": 1004000,
                   "status": "passed"
                 },
                 "match": {
@@ -834,7 +836,7 @@
           },
           {
             "result": {
-              "duration": 18245592800,
+              "duration": 18810090300,
               "status": "passed"
             },
             "line": 17,
@@ -870,7 +872,7 @@
           },
           {
             "result": {
-              "duration": 337775900,
+              "duration": 345273400,
               "status": "passed"
             },
             "line": 18,
@@ -906,7 +908,7 @@
           },
           {
             "result": {
-              "duration": 122300400,
+              "duration": 123245800,
               "status": "passed"
             },
             "line": 19,
@@ -917,7 +919,6 @@
             "after": [
               {
                 "result": {
-                  "duration": 1468500,
                   "status": "passed"
                 },
                 "match": {
@@ -935,7 +936,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-05-27T05:48:26.683Z",
+        "start_timestamp": "2023-05-29T10:12:20.389Z",
         "line": 25,
         "name": "calculate the Arithmetic Operations with DecimalNumbers",
         "description": "",
@@ -945,7 +946,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4296953500,
+              "duration": 4685052900,
               "status": "passed"
             },
             "line": 16,
@@ -956,6 +957,7 @@
             "after": [
               {
                 "result": {
+                  "duration": 1151400,
                   "status": "passed"
                 },
                 "match": {
@@ -967,7 +969,7 @@
           },
           {
             "result": {
-              "duration": 11831877800,
+              "duration": 12656253300,
               "status": "passed"
             },
             "line": 17,
@@ -992,6 +994,7 @@
             "after": [
               {
                 "result": {
+                  "duration": 1010000,
                   "status": "passed"
                 },
                 "match": {
@@ -1003,7 +1006,7 @@
           },
           {
             "result": {
-              "duration": 336203300,
+              "duration": 351915500,
               "status": "passed"
             },
             "line": 18,
@@ -1039,7 +1042,7 @@
           },
           {
             "result": {
-              "duration": 137042900,
+              "duration": 157000100,
               "status": "passed"
             },
             "line": 19,
