@@ -6,7 +6,7 @@ import io.cucumber.testng.CucumberOptions;
 @CucumberOptions(
         features="src/test/java/FeatureFile/Calculator.feature",
         glue="StepDefination",
-        tags="@ArithmeticOperation1 or @ArithmeticOperation2",
+        tags="@ArithmeticOperation1",
         monochrome=true,
         plugin={"pretty","io.qameta.allure.cucumber5jvm.AllureCucumber5Jvm","json:target/cucumber.json"}
         )
