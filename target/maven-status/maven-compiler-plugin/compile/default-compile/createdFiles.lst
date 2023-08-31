@@ -1,0 +1,5 @@
+PageObjects\ArithmeticOperationPage.class
+Utilities\BaseClass.class
+PageObjects\ExpectedResultPage.class
+Utilities\WinCommands.class
+PageObjects\CalculatorPage.class
